@@ -90,6 +90,12 @@ Logistic Regression achieved the highest accuracy (98%) and precision, making it
 
 The web app interface ensures easy testing without diving into code.
 
+![Image](https://github.com/user-attachments/assets/8297b3d1-0606-47d5-bb60-604ad89bf501)
+![Image](https://github.com/user-attachments/assets/5c9b4f8f-8463-43bc-9ac4-a2eb3c1b670c)
+![Image](https://github.com/user-attachments/assets/404297bc-4f59-496c-9fdf-2484b9586396)
+![Image](https://github.com/user-attachments/assets/9f6a1514-efa6-44f9-bc6a-e82b75c5fb70)
+
+
 
 
 📌 Future Enhancements
